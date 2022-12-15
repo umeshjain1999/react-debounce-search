@@ -1,12 +1,12 @@
 # react-debounce-search ⌛🔎
 react-debounce-search is a simple and lightweight React app that demonstrates the use of debouncing in a search field. The app features a search input with a debounce function, allowing users to search for a term without triggering an API call on every keystroke. This can help improve the performance of your search functionality by reducing the number of unnecessary requests made to the server.
 
-To use the app, simply enter a search term in the input field and wait for the debounce time to elapse. The app will call API from *[dummyjson](http://dummyjson.com/)* based on search term, allowing you to see how the debounce function is working.
+To use the app, simply enter a search term in the input field and wait for the debounce time to elapse. The app will call API from <a href="http://dummyjson.com/" target="_blank"><i>dummyjson</i></a> based on search term, allowing you to see how the debounce function is working.
 
 ## Installation ⚙️
 
 ### Codesandbox
-open this URL : https://codesandbox.io/s/github/umeshjain1999/react-debounce-search
+open this URL : <a href="https://codesandbox.io/s/github/umeshjain1999/react-debounce-search" target="_blank">codesandbox</a>
 
 ### Local Machine
 To clone the repository, run the following command:
